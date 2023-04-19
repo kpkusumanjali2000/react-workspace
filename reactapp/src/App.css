@@ -1,0 +1,15 @@
+.app{
+  text-align: justify;
+  font-family:'Courier New', Courier, monospace;
+  font-size: x-large;
+  color: blue;
+  background-color: aqua;
+  min-height: 100vh;
+  display: flex;
+}
+
+.h1{
+  color: darkmagenta;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: xx-large;
+}
