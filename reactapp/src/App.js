@@ -4,6 +4,8 @@ import Navbar from './components/navbar';
 import Footer from './components/footer';
 import Home from './pages/home';
 import About from './pages/about';
+import Contact from './pages/contact';
+import Menu from './pages/menu';
 
 function App() {
   return (
@@ -12,6 +14,8 @@ function App() {
         <Navbar/>
         <Home/>
         <About/>
+        <Menu/>
+        <Contact/>
         <Footer/>
       </Router>
     </div>
